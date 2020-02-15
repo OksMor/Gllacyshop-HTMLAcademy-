@@ -1,2 +1,3 @@
-# HTMLAcademy_2016_gllacyshop
-HTML
+Фиксированная блочная модель на 'float'
+
+Макет - Gllacy shop от HTML Academy (https://htmlacademy.ru)
