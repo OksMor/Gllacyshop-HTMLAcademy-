@@ -729,7 +729,7 @@ input[type=password]::placeholder {
   margin-bottom: 30px;
 }
 
-.texno::before {
+.techno::before {
   content: '';
   position: absolute;
   top: -12px;
@@ -739,7 +739,7 @@ input[type=password]::placeholder {
   width: 49px;
   height: 49px;
 }
-.fermer::before {
+.farmer::before {
   content: '';
   position: absolute;
   top: -12px;
@@ -873,19 +873,19 @@ input[type=password]::placeholder {
   background-color: #ffffff;
   padding: 25px;
 }
-.addres {
+.address {
   font-size: 14px;
   line-height: 18px;
   color: #5a5a5a;
   margin: 0 0 10px 0;
 }
-.office-addres {
+.office-address {
   font-size: 18px;
   line-height: 24px;
   font-weight: 700;
   margin: 0 0 20px 0;
 }
-.tell-opder {
+.tell-order {
   font-size: 14px;
   line-height: 18px;
   color: #5a5a5a;
